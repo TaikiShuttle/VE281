@@ -8,4 +8,4 @@ Some algorithms can be used:
 3. Floyd (efficient for dense graph but slow for sparse graph)
 4. FSPA (based on Bellman-Ford, uses a queue to optimize)
 
-The testcase are all dense graphs, which makes Floyd a better choice.
+The testcases are all dense graphs, which makes Floyd a better choice.
