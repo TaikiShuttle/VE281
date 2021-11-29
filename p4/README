@@ -9,3 +9,7 @@ Some algorithms can be used:
 4. FSPA (based on Bellman-Ford, uses a queue to optimize)
 
 The testcases are all dense graphs, which makes Floyd a better choice.
+
+Abour Honor Code:
+Student taking VE281 in JI can refer to this code, but he or she should not copy or modify it directly. And the code for this project is actually performing poorly!
+You can come up with a better one yourself! If the JI Honor council spots a copy behavior, it is not author's resposibility for other students' behavior.
